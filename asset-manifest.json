@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/zignature-app/static/css/main.15e1edaa.css",
-    "main.js": "/zignature-app/static/js/main.d16f1361.js",
-    "static/js/453.fd44e827.chunk.js": "/zignature-app/static/js/453.fd44e827.chunk.js",
+    "main.css": "/zignature-app/static/css/main.bb02f91d.css",
+    "main.js": "/zignature-app/static/js/main.1775977e.js",
     "index.html": "/zignature-app/index.html",
-    "main.15e1edaa.css.map": "/zignature-app/static/css/main.15e1edaa.css.map",
-    "main.d16f1361.js.map": "/zignature-app/static/js/main.d16f1361.js.map",
-    "453.fd44e827.chunk.js.map": "/zignature-app/static/js/453.fd44e827.chunk.js.map"
+    "main.bb02f91d.css.map": "/zignature-app/static/css/main.bb02f91d.css.map",
+    "main.1775977e.js.map": "/zignature-app/static/js/main.1775977e.js.map"
   },
   "entrypoints": [
-    "static/css/main.15e1edaa.css",
-    "static/js/main.d16f1361.js"
+    "static/css/main.bb02f91d.css",
+    "static/js/main.1775977e.js"
   ]
 }
