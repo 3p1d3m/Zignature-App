@@ -17,7 +17,7 @@ const Home = () => {
 
     return (
         <div style={{ padding: "2rem" }}>
-            <h1>Zignature 📄✍️</h1>
+            <h1>eSignMate 📄✍️</h1>
             <p>Step 1: Upload a PDF to get started</p>
             <input type="file" accept="application/pdf" onChange={handleFileChange} />
             {pdfFile && <PDFViewer fileUrl={pdfFile} />}
@@ -26,6 +26,5 @@ const Home = () => {
 };
 
 export default Home;
-
 
 
